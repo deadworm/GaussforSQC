@@ -1,5 +1,5 @@
 There are 3 input files need to be put in the same directory with "GaussforSQC.exe".
-And if there is no wrong, there are 3 output files. I will introduce them one by one.
+And if there is no wrong, there will be 3 output files. I will introduce them one by one.
 
 input files:
 1. infile.txt
@@ -112,7 +112,7 @@ kinetic energy matrix
 
 
 So, with those coefficients for normal form of second quantization Hamiltonian in output files Hv.txt and Ht.txt,
-The numerical result of ground state of your system can be get by exact diagonalization or other methods like DMRG.
+the numerical result of ground state of your system can be get by exact diagonalization or other methods like DMRG.
 
 
 
